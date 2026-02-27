@@ -1,0 +1,20 @@
+# --- Project Specific Data (Large Files) ---
+DATA/IMAGES/WITH MASK/
+DATA/IMAGES/WITHOUT MASK/
+DATA\IMAGES\LABELS
+# Data Vectors
+*.csv
+
+# --- Python & IDE ---
+__pycache__/
+*.py[cod]
+.venv
+venv/
+.vscode/
+.idea/
+
+# --- ML Frameworks ---
+*.h5
+*.pkl
+*.tflite
+logs/

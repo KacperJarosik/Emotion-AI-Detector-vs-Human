@@ -1,0 +1,24 @@
+# Python 3.11.2 Environment
+# Core Data Processing
+numpy==1.26.4
+pandas==2.2.3
+scipy>=1.10.0
+
+# Computer Vision & Image Processing
+opencv-python==4.11.0
+mediapipe==0.10.21
+Pillow==9.5.0
+
+# Machine Learning & Deep Learning
+tensorflow==2.17.0
+xgboost==3.0.0
+scikit-learn==1.6.1
+imbalanced-learn==0.13.0
+shap==0.47.0
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.13.2
+
+# Utilities
+joblib==1.4.2
