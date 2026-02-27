@@ -4,6 +4,8 @@ DATA/IMAGES/WITHOUT MASK/
 DATA\IMAGES\LABELS
 # Data Vectors
 *.csv
+!DATA\OTHER\deleted_files_list.csv
+!DATA\OTHER\data covered by a face mask.csv
 
 # --- Python & IDE ---
 __pycache__/
